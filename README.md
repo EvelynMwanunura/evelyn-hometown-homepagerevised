@@ -1,19 +1,27 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Visit Cape Town 🌍
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Explore the natural beauty, rich culture, and vibrant history of Cape Town, South Africa, through this interactive webpage. 
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🌟 Features
+- **Interactive Location Marking**: Click on a location to mark it as visited.
+- **Banner Section**: Showcasing the stunning views of Cape Town with a captivating header.
+- **Introduction**: Highlights the essence and charm of the city, encouraging exploration.
+- **Image Gallery**: A curated selection of must-visit locations in Cape Town:
+  - **Bo-Kaap**: A colorful historical district with rich Cape Malay culture.
+  - **Table Mountain**: One of the 7 Wonders of the World with breathtaking views.
+  - **Boulders Beach**: Home to African penguins in their natural habitat.
+  - **Kirstenbosch**: A world-renowned botanical garden.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Tech Stack
+- **HTML**: Structure and content.
+- **CSS**: Styling via `style.css` (external stylesheet).
+- **JavaScript**: Adds interactivity for marking visited locations.
 
-Happy Coding!
+## 🎮 Interactive Features
+- Locations in the image gallery are clickable.
+- Clicking a location visually ticks it off as visited using JavaScript.
+
+## 🧭 How to Use
+1. Clone this repository:
+   ```bash
+   git clone <repository-url>
